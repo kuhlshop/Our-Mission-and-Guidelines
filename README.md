@@ -1,8 +1,8 @@
-# KUHL Shop
+# KÜHL Shop
 
-This document keeps track of our core principles and mission statement that guides our daily descision making. Everything essentially just boils down to: Make kühl shit.
+This document keeps track of our core principles and mission statement that guide our daily descision making. Everything essentially just boils down to: make kühl shit.
 
-## What is Kühl Shit?
+## What is kühl shit?
 
 - **App ideas stay SIMPLE.**  
   If you can't explain it to a 5-year-old, it's probably too complicated.  
@@ -32,3 +32,10 @@ This document keeps track of our core principles and mission statement that guid
 - **Engage in "priceless market fit."**  
   Don’t see code as THE solution.  
   Find the quickest solution—without sacrificing quality—until the market has been tested.
+
+## Why the name KÜHL?
+
+My adopted father, Leonard Geen Kühl, had incredible work ethic, treated my mom exceptionally, and was the most caring father I could have every asked for. He became my father when I was 5, and sadly passed away when I was 10. He died during an open heart surgeory procedure. A procedure he only needed, because he had excerted so much effort trying to save my mom and I from drowning, that he blew a ventrical in his heart. I'm not exaggerating for effect. My dad literally died trying to save my mom
+and I. I only had him for 5 years of my early life. But for the time I had him, he had an effect on me that lasts to this day. I'm building this company because I'm passionate about my vision, and to honor my dads name.
+
+Rest in peace, dad.
