@@ -33,6 +33,11 @@ This document keeps track of our core principles and mission statement that guid
   Don’t see code as THE solution.  
   Find the quickest solution—without sacrificing quality—until the market has been tested.
 
+- **All content must provide more value to the user**
+  The goal of creating content is _not_ for the sake of creating content.
+  It must provide value to the end user. Whether that's education, entertainment or something else.
+  Increasing brand awareness and leads is the beneficial byproduct.
+
 ## Why the name KÜHL?
 
 My adopted father, Leonard Geen Kühl, had incredible work ethic, treated my mom exceptionally, and was the most caring father I could have every asked for. He became my father when I was 5, and sadly passed away when I was 10. He died during an open heart surgeory procedure. A procedure he only needed, because he had excerted so much effort trying to save my mom and I from drowning, that he blew a ventrical in his heart. I'm not exaggerating for effect. My dad literally died trying to save my mom
