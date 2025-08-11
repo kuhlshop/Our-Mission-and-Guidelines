@@ -35,7 +35,6 @@ Find the quickest solution—without sacrificing quality—until the market has 
 
 ## Why the name KÜHL?
 
-My adopted father, Leonard Geen Kühl, had incredible work ethic, treated my mom exceptionally, and was the most caring father I could have every asked for. He became my father when I was 5, and sadly passed away when I was 10. He died during an open heart surgeory procedure. A procedure he only needed, because he had excerted so much effort trying to save my mom and I from drowning, that he blew a ventrical in his heart. I'm not exaggerating for effect. My dad literally died trying to save my mom
-and I. I only had him for 5 years of my early life. But for the time I had him, he had an effect on me that lasts to this day. I'm building this company because I'm passionate about my vision, and to honor my dads name.
+My adopted father, Leonard Geen Kühl, had incredible work ethic, treated my mom exceptionally, and was the most caring father I could have every asked for. He became my father when I was 5, and sadly passed away when I was 10. He died during an open heart surgery procedure. A procedure he only needed, because he had excerted so much effort trying to save my mom and I from drowning, that he blew a ventrical in his heart. I'm not exaggerating for effect. My dad literally died trying to save my mom and I. I only had him for 5 years of my early life. But for the time I had him, he had an effect on me that lasts to this day. I'm building this company because I'm passionate about my vision, and to honor my dads name.
 
 Rest in peace, dad.
