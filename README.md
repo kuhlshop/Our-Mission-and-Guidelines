@@ -23,7 +23,7 @@ Always be testing, tweaking, and fine-tuning products.
 Stagnation is the death of momentum.
 
 - **Embrace losing, before winning**  
-Generosity is rewarded in unseen ways. When you offer more value than your receiving, in any transaction, you're being nice while also taking a leap of faith that you'll potentially reciece more in the future. This is a bet on human nature and your clients' success. A big bet. We like bit bets.
+Generosity is rewarded in unseen ways. When you offer more value than you're receiving, in any transaction, you're being nice while also taking a leap of faith that you'll potentially reciece more in the future. This is a bet on human nature and your clients' success. A big bet. We like bit bets.
 
 - **Give the expected service—plus your unique added value.**  
 This is what creates a unique experience, and thus, a superbly happy customer.  
@@ -32,11 +32,6 @@ This is what creates a unique experience, and thus, a superbly happy customer.
 - **Engage in "priceless market fit."**  
 Don’t see code as THE solution.  
 Find the quickest solution—without sacrificing quality—until the market has been tested.
-
-- **All content must provide more value to the user.**  
-The goal of creating content is _not_ for the sake of creating content.
-It must provide value to the end user. Whether that's education, entertainment or something else.
-Increasing brand awareness and leads is the beneficial byproduct.
 
 ## Why the name KÜHL?
 
