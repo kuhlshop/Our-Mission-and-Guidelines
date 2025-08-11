@@ -33,7 +33,7 @@ This document keeps track of our core principles and mission statement that guid
   Don’t see code as THE solution.  
   Find the quickest solution—without sacrificing quality—until the market has been tested.
 
-- **All content must provide more value to the user**
+- **All content must provide more value to the user.**
   The goal of creating content is _not_ for the sake of creating content.
   It must provide value to the end user. Whether that's education, entertainment or something else.
   Increasing brand awareness and leads is the beneficial byproduct.
